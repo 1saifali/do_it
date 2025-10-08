@@ -1,0 +1,10 @@
+python -m venv TO_DO
+
+D:\virtualEnv\do_it\do_it\TO_DO\Scripts\activate.bat
+
+required packages:
+pip install streamlit psycopg2-binary
+
+For password hashing:
+pip install bcrypt
+
